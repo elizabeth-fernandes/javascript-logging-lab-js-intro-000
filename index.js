@@ -10,4 +10,3 @@ console.log(word) // 'bird'
 word = 'dog'
 
 console.log(word) // 'dog'
-Learn
